@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="camera_permission_refused">拍照权限被拒绝</string>
+</resources>
